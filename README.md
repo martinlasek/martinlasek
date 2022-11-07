@@ -4,12 +4,16 @@
 
 Nice to meet you! I'm currently working at Alaska Airlines as a software engineer.
 I love working on new challenges and always have a side project that pushes my boundaries!
-Most of the time that work is live streamed on Twitch. Feel free to join a session of code and chill ✨
+Most of the time that work is live streamed on **Twitch**. Feel free to join a session of code and chill ✨
 
 ## My Apps
 I always push myself to finish all my side projects and release them to production 🚀
 
+| <img src="/images/BetterWorkout.png" width="100"/> | <img src="/images/mi-cuit.png" width="100"/> | <img src="/images/Momoko.png" width="100"/> |
+| - | - | - |
+| [Better Workout](https://apps.apple.com/at/app/better-workout/id1523173452) | [Mi-Cuit](https://apps.apple.com/us/app/mi-cuit/id1510431386) | [Momoko](https://apps.apple.com/de/app/momoko-io/id1371665660) |
 
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=martinlasek)
 <!--
 **martinlasek/martinlasek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
