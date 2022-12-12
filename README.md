@@ -7,7 +7,7 @@ I love working on new challenges and always have a side project that pushes my b
 Most of the time that work is live streamed on **Twitch**. Feel free to join a session of code and chill ✨
 
 ## My Apps
-I always push myself to finish all my side projects and release them to production 🚀
+Feel free to download them at no cost 🚀
 
 | <img src="/images/betterworkout.png" width="100"/> | <img src="/images/mi-cuit.png" width="100"/> | <img src="/images/momoko.png" width="100"/> |
 | - | - | - |
