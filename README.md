@@ -4,7 +4,7 @@
 
 Nice to meet you! I'm currently working at Alaska Airlines as a software engineer.
 I love working on new challenges and always have a side project that pushes my boundaries!
-Most of the time that work is live streamed on **Twitch**. Feel free to join a session of code and chill ✨
+Most of the time that side project work is streamed on **Twitch**. Feel free to join a session of code and chill ✨
 
 ## My Apps
 Feel free to download them at no cost 🚀
