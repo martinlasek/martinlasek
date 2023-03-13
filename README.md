@@ -9,11 +9,12 @@ Most of the time that side project work is streamed on **Twitch**. Feel free to 
 ## My Apps
 You can download them for free here  🚀
 
-| <img src="/images/betterworkout.png" width="100"/> | <img src="/images/mi-cuit.png" width="100"/> | <img src="/images/momoko.png" width="100"/> |
-| - | - | - |
-| [Better Workout](https://apps.apple.com/us/app/better-workout/id1523173452) | [Mi-Cuit](https://apps.apple.com/us/app/mi-cuit/id1510431386) | [Momoko](https://apps.apple.com/us/app/momoko-io/id1371665660) |
+| <img src="/images/wishkit-icon.png" width="100"/> | <img src="/images/betterworkout.png" width="100"/> | <img src="/images/mi-cuit.png" width="100"/> | <img src="/images/momoko.png" width="100"/> |
+| - | - | - | - |
+| [WishKit](https://www.wishkit.io) | [Better Workout](https://apps.apple.com/at/app/better-workout/id1523173452) | [Mi-Cuit](https://apps.apple.com/us/app/mi-cuit/id1510431386) | [Momoko](https://apps.apple.com/de/app/momoko-io/id1371665660) |
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=martinlasek)
+
 <!--
 **martinlasek/martinlasek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
