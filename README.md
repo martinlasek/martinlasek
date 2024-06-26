@@ -6,8 +6,8 @@ Nice to meet you! I'm currently working at Alaska Airlines as a software enginee
 I love working on new challenges and always have a side project that pushes my boundaries!
 Most of the time that side project work is streamed on **Twitch**. Feel free to join a session of code and chill ✨
 
-## My Apps
-You can download them for free here  🚀
+## My Projects
+You can check them out here  🚀
 
 | <img src="/images/wishkit-icon.png" width="100"/> | <img src="/images/betterworkout.png" width="100"/> | <img src="/images/momoko.png" width="100"/> |
 | - | -  | - |
